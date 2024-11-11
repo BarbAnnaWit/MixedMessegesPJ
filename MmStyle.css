@@ -1,0 +1,33 @@
+*{ 
+    background-color: rgb(21, 14, 46); 
+    color: rgb(107, 102, 102);
+} 
+h1{ 
+    text-align: center; 
+    font-family: 'Courier New', Courier, monospace;
+}  
+#container { 
+    
+    border: solid 1px rgb(107, 102, 102); 
+    height: 300px; 
+    width: 290px; 
+    text-align: center;  
+    align-items: center; 
+    margin-left: 36.5%;
+} 
+#btn { 
+ margin: 50px auto; 
+ height: 50px; 
+ width: 250px; 
+ background-color: rgb(66, 66, 69); 
+ font-size: 17px; 
+ color: blanchedalmond; 
+ border-radius: 9px; 
+ box-shadow: 3px black; 
+ font-family: 'Courier New', Courier, monospace;
+
+} 
+#output { 
+    font-size: 22px; 
+    font-family: 'Courier New', Courier, monospace;
+}
